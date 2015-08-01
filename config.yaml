@@ -1,0 +1,21 @@
+
+#
+# Config.
+#
+
+url: http://tycombinator.com
+writeKey: Hmm
+
+#
+# Bio.
+#
+
+name: Alex Dao
+role: Product
+
+#
+# Social.
+#
+
+twitter: aleksdao
+github: aleksdao
